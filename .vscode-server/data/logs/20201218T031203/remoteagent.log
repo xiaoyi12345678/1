@@ -1,0 +1,41 @@
+[2020-12-18 03:12:03.626] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2020-12-18 03:12:03.626] [remoteagent] [info] Extension host agent started.
+[2020-12-18 03:12:03.656] [remoteagent] [info] [127.0.0.1][8bd64849][ExtensionHostConnection] New connection established.
+[2020-12-18 03:12:03.676] [remoteagent] [info] [127.0.0.1][2f20f019][ManagementConnection] New connection established.
+[2020-12-18 03:12:03.735] [remoteagent] [info] Listing 0 persistent terminals, 0 total terminals
+[2020-12-18 03:12:03.830] [remoteagent] [info] [127.0.0.1][8bd64849][ExtensionHostConnection] <19486> Launched Extension Host Process.
+[2020-12-18 03:12:28.605] [remoteagent] [info] [127.0.0.1][2f20f019][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-12-18 03:12:29.647] [remoteagent] [info] [127.0.0.1][8bd64849][ExtensionHostConnection] <19486> Extension Host Process exited with code: 0, signal: null.
+[2020-12-18 03:12:29.648] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2020-12-18 03:12:40.856] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2020-12-18 03:12:40.857] [remoteagent] [info] Cancelling previous shutdown timeout
+[2020-12-18 03:12:41.710] [remoteagent] [info] [127.0.0.1][1a89e4e7][ManagementConnection] New connection established.
+[2020-12-18 03:12:41.711] [remoteagent] [info] [127.0.0.1][0d849068][ExtensionHostConnection] New connection established.
+[2020-12-18 03:12:41.718] [remoteagent] [info] [127.0.0.1][0d849068][ExtensionHostConnection] <19725> Launched Extension Host Process.
+[2020-12-18 03:12:41.754] [remoteagent] [info] Listing 0 persistent terminals, 0 total terminals
+[2020-12-18 03:12:41.778] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/xiaoyi/.vscode'
+[2020-12-18 03:17:40.858] [remoteagent] [info] New EH opened, aborting shutdown
+[2020-12-18 04:28:24.083] [remoteagent] [info] [127.0.0.1][1a89e4e7][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2020-12-18 05:21:07.945] [remoteagent] [info] [127.0.0.1][1a89e4e7][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2020-12-18 05:21:07.947] [remoteagent] [info] [127.0.0.1][1a89e4e7][ManagementConnection] The client has reconnected.
+[2020-12-18 05:21:07.949] [remoteagent] [info] [127.0.0.1][0d849068][ExtensionHostConnection] The client has reconnected.
+[2020-12-18 05:23:54.761] [remoteagent] [info] Installing extension: ms-vscode.cpptools
+[2020-12-18 05:23:56.286] [remoteagent] [info] Downloaded extension: ms-vscode.cpptools undefined
+[2020-12-18 05:23:56.893] [remoteagent] [info] Extracted extension to /home/xiaoyi/.vscode-server/extensions/.ms-vscode.cpptools-1.1.3: ms-vscode.cpptools
+[2020-12-18 05:23:56.894] [remoteagent] [info] Renamed to /home/xiaoyi/.vscode-server/extensions/ms-vscode.cpptools-1.1.3
+[2020-12-18 05:23:56.902] [remoteagent] [info] Installation completed. ms-vscode.cpptools
+[2020-12-18 05:23:56.922] [remoteagent] [info] Extensions installed successfully: ms-vscode.cpptools
+[2020-12-18 09:28:42.820] [remoteagent] [info] [127.0.0.1][1a89e4e7][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2020-12-18 12:28:37.997] [remoteagent] [info] [127.0.0.1][0d849068][ExtensionHostConnection] <19725> Extension Host Process exited with code: 0, signal: null.
+[2020-12-18 12:28:37.998] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2020-12-18 12:28:42.821] [remoteagent] [info] [127.0.0.1][1a89e4e7][ManagementConnection] The reconnection grace time of 3h has expired, so the connection will be disposed.
+[2020-12-18 12:33:38.000] [remoteagent] [info] Last EH closed, shutting down

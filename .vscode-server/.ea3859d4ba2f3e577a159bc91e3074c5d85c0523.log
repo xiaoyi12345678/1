@@ -1,0 +1,19 @@
+
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+Extension host agent listening on 39653
+
+[01:40:18] Extension host agent started.
+[01:40:19] [127.0.0.1][b2ca7a1c][ManagementConnection] New connection established.
+[01:40:19] [127.0.0.1][3d66e008][ExtensionHostConnection] New connection established.
+bash: cannot set terminal process group (-1): Inappropriate ioctl for device
+bash: no job control in this shell
+[01:40:19] Listing 0 persistent terminals, 0 total terminals
+[01:40:19] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/xiaoyi/.vscode'
+[01:40:19] [127.0.0.1][3d66e008][ExtensionHostConnection] <14574> Launched Extension Host Process.

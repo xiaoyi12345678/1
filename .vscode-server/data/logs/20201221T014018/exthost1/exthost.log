@@ -1,0 +1,18 @@
+[2020-12-21 01:40:20.563] [exthost] [info] extension host started
+[2020-12-21 01:40:20.715] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-12-21 01:40:20.715] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/xiaoyi/.vscode-server/bin/ea3859d4ba2f3e577a159bc91e3074c5d85c0523/extensions/debug-auto-launch/dist/extension
+[2020-12-21 01:40:20.725] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-12-21 01:40:20.725] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/xiaoyi/.vscode-server/bin/ea3859d4ba2f3e577a159bc91e3074c5d85c0523/extensions/emmet/dist/node/emmetNodeMain
+[2020-12-21 01:40:20.828] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-12-21 01:40:20.828] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/xiaoyi/.vscode-server/bin/ea3859d4ba2f3e577a159bc91e3074c5d85c0523/extensions/git/dist/main
+[2020-12-21 01:40:20.937] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-12-21 01:40:20.937] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/xiaoyi/.vscode-server/bin/ea3859d4ba2f3e577a159bc91e3074c5d85c0523/extensions/merge-conflict/dist/mergeConflictMain
+[2020-12-21 01:40:20.946] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-12-21 01:40:20.946] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/xiaoyi/.vscode-server/bin/ea3859d4ba2f3e577a159bc91e3074c5d85c0523/extensions/search-result/dist/extension.js
+[2020-12-21 01:40:21.206] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-12-21 01:40:21.207] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/xiaoyi/.vscode-server/bin/ea3859d4ba2f3e577a159bc91e3074c5d85c0523/extensions/github/dist/extension.js
+[2020-12-21 01:40:21.345] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2020-12-21 01:40:21.346] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/xiaoyi/.vscode-server/bin/ea3859d4ba2f3e577a159bc91e3074c5d85c0523/extensions/ms-vscode.js-debug/src/extension.js
+[2020-12-21 01:40:21.651] [exthost] [info] eager extensions activated
+[2020-12-21 02:42:44.724] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1518
+[2020-12-21 02:42:46.957] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1518
